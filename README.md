@@ -35,7 +35,7 @@ Deploy the website.
 ### STEP 10
 Upload to GitHub Pages for free hosting.
 
-## PROGRAM
+##PROGRAM
 ```
 <!DOCTYPE html>
 <meta charset="UTF-8" />
@@ -51,7 +51,7 @@ Upload to GitHub Pages for free hosting.
   
         .container {
           max-width: 600px;
-          margin: 70px auto;
+          margin: 400px auto;
           padding: 30px;
           background: white;
           box-shadow: 0px 0px 10px rgb(4, 100, 155);
@@ -115,6 +115,17 @@ Upload to GitHub Pages for free hosting.
         li button:hover {
           background: #c82333;
         }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            
+            background-color: #c2ced9;
+            color: rgb(0, 0, 0);
+            position: relative;
+            width: 100%;
+        }
+
       </style>    
       </head>
       <body>
@@ -155,6 +166,12 @@ Upload to GitHub Pages for free hosting.
             taskList.removeChild(taskItem);
           }
         </script>
+        
+        
+        <footer>
+          <p>SANDHIYA SREE(212223220093).</p>
+      </footer>
+  
       </body>
     </html>
 ```
@@ -162,7 +179,9 @@ Upload to GitHub Pages for free hosting.
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/2ccb6511-8fdf-4494-a0bd-5673cf5a971b)
+![image](https://github.com/user-attachments/assets/106aa3e1-c94a-4c62-baf3-036c66596d85)
+
+
 
 
 ## RESULT
